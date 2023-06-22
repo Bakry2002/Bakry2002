@@ -40,11 +40,11 @@
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <a href="https://github.com/anuraghazra/github-readme-stats">
-     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=bakry2002" />
+     <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=bakry2002" />
   </a>
 </picture>
 
    <a href="https://github.com/anuraghazra/convoychat">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bakry2002&layout=compact&langs_count=8&card_width=320" />
+    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bakry2002&layout=compact&langs_count=8&card_width=320" />
   </a>
  
