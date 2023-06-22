@@ -33,3 +33,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bakry2002&show_icons=true&locale=en" alt="bakry2002" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bakry2002&" alt="bakry2002" /></p>
+
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bakry2002)](https://github.com/bakry2002/github-readme-stats)
