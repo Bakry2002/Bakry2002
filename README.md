@@ -8,11 +8,11 @@
 
 <p align="left"> <a href="https://twitter.com/bakry305" target="blank"><img src="https://img.shields.io/twitter/follow/bakry305?logo=twitter&style=for-the-badge" alt="bakry305" /></a> </p>
 
-- 🔭 I’m currently Studying at **Faculty of Computer Science, Cairo University**
+- 🔭 I’m currently Studying at **Faculty of Computer Science, Cairo University**.
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **NextJS** to use it with my SaaS applications.
 
-- 💬 Ask me about **react, MERN**
+- 💬 Ask me about **ReactJS, MERN, NextJS**
 
 - 📫 How to reach me **abdaullah62@gmail.com**
 
